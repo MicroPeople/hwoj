@@ -1,0 +1,44 @@
+
+Dump of file .\add.dll
+
+File Type: DLL
+
+  Section contains the following exports for add.dll
+
+    00000000 characteristics
+    6279139C time date stamp Mon May  9 21:14:04 2022
+        0.00 version
+           1 ordinal base
+           2 number of functions
+           2 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0019B350 _cgo_dummy_export
+          2    1 0008BD30 add
+
+  Summary
+
+        1000 .CRT
+       5B000 .bss
+       18000 .data
+        1000 .debug_abbrev
+        1000 .debug_aranges
+       10000 .debug_frame
+        1000 .debug_gdb_scripts
+       81000 .debug_info
+       34000 .debug_line
+        1000 .debug_line_str
+       A2000 .debug_loc
+        1000 .debug_loclists
+       31000 .debug_ranges
+        1000 .debug_str
+        1000 .edata
+        1000 .eh_frame
+        1000 .idata
+        1000 .pdata
+       98000 .rdata
+        3000 .reloc
+       8D000 .text
+        1000 .tls
+        1000 .xdata
